@@ -1,0 +1,14 @@
+[
+    {
+        "model": "refacturedb.project",
+        "pk": "d4d7a054-24d0-4c0c-95fc-76be97e25aa2",
+        "fields": {
+            "created_on": "2022-08-24T19:22:15.781Z",
+            "modified_on": "2022-08-24T19:22:15.781Z",
+            "name": "Projeto Teste",
+            "flows_authorization": "TokenA",
+            "date_format": "D",
+            "is_template": false
+        }
+    }
+]

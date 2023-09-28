@@ -1,0 +1,13 @@
+# Arquivos e diretórios para ignorar
+env/
+.env
+.venv/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.egg
+dist/
+build/
+*.sqlite3

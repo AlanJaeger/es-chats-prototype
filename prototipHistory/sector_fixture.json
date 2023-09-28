@@ -1,0 +1,72 @@
+[
+    {
+        "model": "refacturedb.sector",
+        "pk": "d3cae43d-cf25-4892-bfa6-0f24a856cfb8",
+        "fields": {
+            "created_on": "2022-08-24T21:00:16.351Z",
+            "modified_on": "2022-08-24T21:00:16.351Z",
+            "name": "Contas1",
+            "project": "d4d7a054-24d0-4c0c-95fc-76be97e25aa2",
+            "rooms_limit": 2,
+            "work_start": "09:00:00",
+            "work_end": "16:00:00",
+            "is_deleted": false
+        }
+    },
+    {
+        "model": "refacturedb.sector",
+        "pk": "5903792e-e046-4a29-8907-043c44fd1153",
+        "fields": {
+            "created_on": "2022-08-24T21:00:16.351Z",
+            "modified_on": "2022-08-24T21:00:16.351Z",
+            "name": "Contas2",
+            "project": "d4d7a054-24d0-4c0c-95fc-76be97e25aa2",
+            "rooms_limit": 2,
+            "work_start": "09:00:00",
+            "work_end": "16:00:00",
+            "is_deleted": false
+        }
+    },
+    {
+        "model": "refacturedb.sector",
+        "pk": "a9ac4ad0-327a-47f7-8b58-e256cb34dba3",
+        "fields": {
+            "created_on": "2022-08-24T21:00:16.351Z",
+            "modified_on": "2022-08-24T21:00:16.351Z",
+            "name": "Contas3",
+            "project": "d4d7a054-24d0-4c0c-95fc-76be97e25aa2",
+            "rooms_limit": 2,
+            "work_start": "09:00:00",
+            "work_end": "16:00:00",
+            "is_deleted": false
+        }
+    },
+    {
+        "model": "refacturedb.sector",
+        "pk": "ffc0029b-19cb-4787-8434-7f0b03a3c020",
+        "fields": {
+            "created_on": "2022-08-24T21:00:16.351Z",
+            "modified_on": "2022-08-24T21:00:16.351Z",
+            "name": "Contas4",
+            "project": "d4d7a054-24d0-4c0c-95fc-76be97e25aa2",
+            "rooms_limit": 2,
+            "work_start": "09:00:00",
+            "work_end": "16:00:00",
+            "is_deleted": false
+        }
+    },
+    {
+        "model": "refacturedb.sector",
+        "pk": "a2bbdba0-9400-4ab0-9295-9500e8604368",
+        "fields": {
+            "created_on": "2022-08-24T21:00:16.351Z",
+            "modified_on": "2022-08-24T21:00:16.351Z",
+            "name": "Contas5",
+            "project": "d4d7a054-24d0-4c0c-95fc-76be97e25aa2",
+            "rooms_limit": 2,
+            "work_start": "09:00:00",
+            "work_end": "16:00:00",
+            "is_deleted": false
+        }
+    }
+]

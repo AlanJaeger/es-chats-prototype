@@ -1,0 +1,72 @@
+[
+    {
+        "model": "refacturedb.contact",
+        "pk": "02e41cb1-b2ae-42c8-be74-519416713bdc",
+        "fields": {
+            "created_on": "2022-09-02T20:59:37.159Z",
+            "modified_on": "2022-09-03T00:20:09.547Z",
+            "external_id": "2598adfa-b02c-422f-8514-afdc45e8f3f5",
+            "name": "Foo Bar",
+            "email": "FooBar@weni.ai",
+            "status": "",
+            "phone": "+250788123123",
+            "custom_fields": {}
+        }
+    },
+    {
+        "model": "refacturedb.contact",
+        "pk": "794ea0e0-c09d-4399-9d7b-f4f65ad14043",
+        "fields": {
+            "created_on": "2022-09-02T20:59:37.159Z",
+            "modified_on": "2022-09-03T00:20:09.547Z",
+            "external_id": "4c5f54bb-336d-4a7f-8213-ad4bd0b0903e",
+            "name": "Foo Bar",
+            "email": "FooBar@weni.ai",
+            "status": "",
+            "phone": "+250788123123",
+            "custom_fields": {}
+        }
+    },
+    {
+        "model": "refacturedb.contact",
+        "pk": "73a7f7a9-7ffd-44ac-8cd6-fac3476dc254",
+        "fields": {
+            "created_on": "2022-09-02T20:59:37.159Z",
+            "modified_on": "2022-09-03T00:20:09.547Z",
+            "external_id": "ae9abc07-7c3c-4b43-ab55-5b30e21aac69",
+            "name": "Foo Bar",
+            "email": "FooBar@weni.ai",
+            "status": "",
+            "phone": "+250788123123",
+            "custom_fields": {}
+        }
+    },
+    {
+        "model": "refacturedb.contact",
+        "pk": "270ff52e-a752-426c-a915-ab902955953a",
+        "fields": {
+            "created_on": "2022-09-02T20:59:37.159Z",
+            "modified_on": "2022-09-03T00:20:09.547Z",
+            "external_id": "783fdded-4dd5-4945-9e22-fb3f7f5cf5cf",
+            "name": "Foo Bar",
+            "email": "FooBar@weni.ai",
+            "status": "",
+            "phone": "+250788123123",
+            "custom_fields": {}
+        }
+    },
+    {
+        "model": "refacturedb.contact",
+        "pk": "e0dd0853-8192-4ccd-808d-d4b0b32cdee3",
+        "fields": {
+            "created_on": "2022-09-02T20:59:37.159Z",
+            "modified_on": "2022-09-03T00:20:09.547Z",
+            "external_id": "0b436c92-5851-4311-be1d-23a10a1c630f",
+            "name": "Foo Bar",
+            "email": "FooBar@weni.ai",
+            "status": "",
+            "phone": "+250788123123",
+            "custom_fields": {}
+        }
+    }
+]
